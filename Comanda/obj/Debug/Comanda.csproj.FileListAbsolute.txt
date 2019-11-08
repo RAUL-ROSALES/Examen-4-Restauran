@@ -1,0 +1,9 @@
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.csprojAssemblyReference.cache
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.Form1.resources
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.Properties.Resources.resources
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.csproj.GenerateResource.cache
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\bin\Debug\Comanda.exe.config
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\bin\Debug\Comanda.exe
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\bin\Debug\Comanda.pdb
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.exe
+C:\Users\raul__000\Downloads\E3-Comanda\Comanda\Comanda\obj\Debug\Comanda.pdb
